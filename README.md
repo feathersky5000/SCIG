@@ -1,0 +1,1 @@
+SCIG incorporates general clustering algorithms such as k-means, Gaussian mixture, etc. Meanwhile, single_cell_RNA_sequencing integrates commonly used clustering algorithms for single-cell data, including Louvain and Leiden
